@@ -1,2 +1,2 @@
 # StrangerWoods
-StrangerWoods_Project_Developed_in_DGBA_Accademy_Level_2
+StrangerWoods Project Developed for the course in DGBA Accademy Level 2 as game programmer
